@@ -34,11 +34,11 @@ export const FounderProfileSection: React.FC = () => (
             <img
               src={founderPortrait}
               alt="Portrait of Oluwasegun Ajibola, Founder and Managing Director of HTB Consult"
-              width={1122}
-              height={1402}
+              width={1086}
+              height={1448}
               loading="lazy"
               decoding="async"
-              className="block aspect-[4/5] w-full object-cover object-center"
+              className="block aspect-[3/4] w-full object-cover object-center"
             />
             <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#001429]/95 via-[#001429]/55 to-transparent px-5 pb-5 pt-16 text-white sm:px-6 sm:pb-6">
               <span className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#FFB81C]">

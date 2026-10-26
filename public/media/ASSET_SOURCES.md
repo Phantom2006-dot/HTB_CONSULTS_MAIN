@@ -53,4 +53,4 @@ The following two 4:3 images were supplied by the site owner, who identified the
 
 ## Founder portrait
 
-- `src/assets/images/leadership/oluwasegun-ajibola-portrait.webp` — portrait of Oluwasegun Ajibola supplied by the site owner; converted from the supplied JPEG to WebP at its original 1122×1402 dimensions without cropping or retouching.
+- `src/assets/images/leadership/oluwasegun-ajibola-portrait.webp` — the latest portrait of Oluwasegun Ajibola supplied by the site owner as `IMG-20261026-WA0015.jpg`; converted to WebP at 1086×1448 (3:4) without cropping or retouching.
